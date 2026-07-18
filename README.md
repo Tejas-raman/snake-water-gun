@@ -80,4 +80,4 @@ Used Claude and ChatGPT for concept explanations (recursion, return values, dict
 ## Status
 
 ✅ Complete — first project, learning purposes.  
-Part of my Python self-study journey targeting MS in AI/ML (Germany, 2027 intake).
+Part of my Python self-study journey targeting MS in AI/ML .
